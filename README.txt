@@ -1,4 +1,4 @@
-This project converts the architecture in file Udacity Project 2.pdf into Cloudformation scripts.
+This project converts the architecture in the file Udacity Project 2.pdf into Cloudformation scripts.
 
 How to deploy the infrastructure:
 
