@@ -1,6 +1,8 @@
+## Project summary
+
 This project converts the architecture in the file Udacity Project 2.pdf into Cloudformation scripts.
 
-How to deploy the infrastructure:
+## How to deploy the infrastructure:
 
 1. Execute the below command
 
